@@ -1,6 +1,4 @@
-# Avion
 
-> An all-in-one student platform combining learning, entertainment, communication, and intelligent support.
 
 ## Table of Contents
 
