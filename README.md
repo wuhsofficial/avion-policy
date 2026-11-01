@@ -14,13 +14,13 @@
 - [Acknowledgments](#acknowledgments)
 - [About Avion](#about-avion)
 
----
+-----
 
-## Avion Legal Centre
+# Avion Legal Centre
 
-### 1. Privacy Policy
+## 1. Privacy Policy
 
-#### 1.1 Introduction
+### 1.1 Introduction
 
 Avion respects the privacy of its users and is committed to protecting personal information with the highest degree of care and responsibility. This Privacy Policy explains how we collect, use, store, disclose, and protect information when you access or use the Avion mobile application and related services.
 
